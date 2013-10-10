@@ -1,0 +1,150 @@
+/* 
+    Document   : movil
+    Created on : 3/05/2013, 01:10:15 AM
+    Author     : Emmanuelle
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.main-header{
+    margin: 0 auto;
+    width: 480px;
+}
+.main-header-logo-texto{
+    margin: 0 auto;
+    width: 300px;
+}
+.main-header-redes{
+    display: none;
+}
+.nav-bar{
+    display: none;
+}
+.ring, .ring-imagen, .ring-imagen img, .ring-caja-texto, .ring-caja-texto-fondo{
+    max-height: 480px;
+    width: 480px;
+}
+.ring-side-post-img img{
+    margin: 0 auto;
+}
+.ring-caja-texto, .ring-caja-texto-fondo
+{
+    margin: 0;
+    padding: 0;
+}
+
+.ring-caja-texto-resumen{
+    display: none;
+} .ring-caja-texto-titulo{
+    width: 100%;
+}
+.segunda-seccion,
+.tercera-seccion,
+.main-footer,
+.quinta-seccion,
+.sexta-seccion{
+    height: auto;
+    width: 480px;
+}
+
+/* Ring Side */
+
+.ring-side, .ring-side-encabezado, .ring-side-post
+{
+    float: left;
+    margin: 0;
+    max-height: 610px;
+    width: 480px;
+}
+.ring-side
+{
+    height: 610px;
+}
+.ring-side-post-texto{
+    display: none;
+}
+
+.primer-anuncio
+{
+    margin: 0;
+    width: 480px;
+}
+
+/* Los Jabs*/
+
+.jabs
+{
+    margin: 0;
+    width: 480px;
+}
+.ponchador,
+.ponchador-post,
+.ponchador-post-texto,
+.ponchador-post-texto-categoria,
+.ponchador-postimg,
+.sexta-seccion,
+.izq-tv,
+.izq-tv-texto,
+.izq-tv-video,
+.izq-tv-texto-datos,
+.img-link,
+.izq-tv-texto-descripcion,
+.izq-tv-texto-encabezado,
+.izq-tv-texto-titulo,
+.main-footer-logo,
+.main-footer-texto
+{
+    float: left;
+    height: auto;
+    width: 480px;
+    margin: 0;
+}
+
+/* Round de Estudio */
+
+.round-de-estudio, .round-de-estudio-encabezado, .encabezado-box-rde
+{
+    float: left;
+    margin: 0;
+    width: 480px;
+}
+.round-de-estudio
+{
+    height: auto;
+}
+.encabezado-box-rde, .encabezado-box-rde .encabezado-texto
+{
+    height: 100px;
+    margin: 0;
+    text-align: center;
+}
+.encabezado-box-rde .encabezado-estrella
+{
+    display: none;
+}
+.encabezado-box-rde .encabezado-texto h3{
+    font-size: 16pt;
+}
+.round-de-estudio-post, .round-de-estudio-post-img
+{
+    margin: 0;
+    width: 480px
+}
+
+/* El ponchador */
+
+.ponchador-postimg, .ponchador-postimg-right
+{
+    border-left: none;
+    border-right: none;
+    
+}
+.izq-tv-texto-descripcion, .izq-tv-texto-titulo
+{
+    margin: 0px 0px 0px 10px;
+    text-align: justify;
+}
+.butaca-video iframe
+{
+    width: 568px;
+}

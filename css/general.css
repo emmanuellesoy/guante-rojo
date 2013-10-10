@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'FuturaHvBT';
+  font-style: normal;
+  font-weight: 400;
+  src: local("?"),
+  url('../fonts/FuturaHvBT.woff') format('woff'),
+  url('../fonts/FuturaHvBT.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'FuturaMdBT';
+  font-style: normal;
+  font-weight: 400;
+  src: local("?"),
+  url('../fonts/FuturaMdBT.woff') format('woff'),
+  url('../fonts/FuturaMdBT.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'FuturaMedium';
+  font-style: normal;
+  font-weight: 400;
+  src: local("?"),
+  url('../fonts/FuturaMedium.ttf') format('truetype');
+}
+/* Comienzan estilos header */
